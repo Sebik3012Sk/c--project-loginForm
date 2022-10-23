@@ -1,0 +1,21 @@
+C:\c#\learn\learn csharp\learn csharp\bin\Debug\net6.0-windows\learn csharp.exe
+C:\c#\learn\learn csharp\learn csharp\bin\Debug\net6.0-windows\learn csharp.deps.json
+C:\c#\learn\learn csharp\learn csharp\bin\Debug\net6.0-windows\learn csharp.runtimeconfig.json
+C:\c#\learn\learn csharp\learn csharp\bin\Debug\net6.0-windows\learn csharp.dll
+C:\c#\learn\learn csharp\learn csharp\bin\Debug\net6.0-windows\learn csharp.pdb
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.csproj.AssemblyReference.cache
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\App.g.cs
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp_MarkupCompile.cache
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp_MarkupCompile.lref
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.g.resources
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.AssemblyInfoInputs.cache
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.AssemblyInfo.cs
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.csproj.CoreCompileInputs.cache
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.dll
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\refint\learn csharp.dll
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.pdb
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\learn csharp.genruntimeconfig.cache
+C:\c#\learn\learn csharp\learn csharp\obj\Debug\net6.0-windows\ref\learn csharp.dll
